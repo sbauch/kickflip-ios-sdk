@@ -22,7 +22,6 @@ Pod::Spec.new do |s|
   s.dependency 'AFOAuth2Manager', '~> 2.0'
   s.dependency 'CocoaLumberjack', '~> 1.0'
   s.dependency 'SSKeychain', '~> 1.2'
-  s.dependency 'FFmpegWrapper', '~> 1.0'
   s.dependency 'PureLayout', '~> 2.0'
   s.dependency 'Mantle', '~> 1.4'
   s.dependency 'SDWebImage', '~> 3.6'
